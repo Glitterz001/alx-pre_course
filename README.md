@@ -1,2 +1,2 @@
-my first readme as a se
+my first readme as a SE
 
