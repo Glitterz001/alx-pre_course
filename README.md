@@ -1,1 +1,2 @@
-second readme
+my first readme as a dev
+
